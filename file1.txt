@@ -1,8 +1,3 @@
 Hello how are you
-I am fine
-I love git and travel
-I am from Bangalore
-I love walking
-I love fruits
-I love dancing and would love to travel
+
 
